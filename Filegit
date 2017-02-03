@@ -1,5 +1,10 @@
 Hello GIT
 First change
+hello GIT
 Second Change
+<<<<<<< HEAD
 Hello World
 hii
+=======
+Changes in Repo
+>>>>>>> e4f1691226a846100f487bd5c0167435154ecb31
